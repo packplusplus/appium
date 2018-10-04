@@ -67,7 +67,7 @@
     "request-promise": "4.x",
     "semver": "^5.5.0",
     "source-map-support": "0.x",
-    "teen_process": "1.x",
+    "teen_process": "^1.14.0",
     "winston": "2.x"
   },
   "scripts": {
